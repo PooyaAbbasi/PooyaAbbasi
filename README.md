@@ -13,19 +13,29 @@ I have learned `Java`, `C++`, and `C`, **not profassionally** but can be conside
 <div align='center'>
   <h2 align="center">Skills</h2>
   <P>
-      <img src="https://skillicons.dev/icons?i=python,django,pycharm,java,cpp&perline=5&theme=dark" />
+      <img alt="skill icons" src="https://skillicons.dev/icons?i=python,django,pycharm,java,cpp&perline=5&theme=dark" />
   </P>
-
-
+</div>
+<div align="center">
   <h2 align='center'>Basic Skills</h2>
   <P>(Learning)</P>
   <P>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css,bootstrap&perline=5&theme=dark" />
+    <img alt='skill icons' src="https://skillicons.dev/icons?i=mysql,sqlite,html,css,bootstrap&perline=5&theme=dark" />
   </P>
+</div>
 
-  <h2 align='center'>Reach Me</h2>
-  <a>
-    <img src="https://skillicons.dev/icons?i=discord&perline=5&theme=dark" />
-  </a>
+<div align="center">
+  <h2 align='center'>Reach Me</h2> 
+    <p>
+        <img alt="discord icon" src="https://skillicons.dev/icons?i=discord&theme=dark" /> <br>
+        Discord id: pooya8383
+    </p>
+    <p>
+        <a href="www.linkedin.com/in/-pooyaabbasi-">
+        <img alt="linkedin icon" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+        </a> <br>
+        Linkedin
+    </p>
+    
 </div>
 
