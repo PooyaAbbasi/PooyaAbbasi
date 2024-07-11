@@ -25,16 +25,16 @@ I have learned `Java`, `C++`, and `C`, **not profassionally** but can be conside
 </div>
 
 <div align="center">
-  <h2 align='center'>Reach Me</h2> 
+  <h2 align='center'> Connect </h2> 
     <p>
+      <a href="https://discordapp.com/users/1076733171405688862">
         <img alt="discord icon" src="https://skillicons.dev/icons?i=discord&theme=dark" /> <br>
-        Discord id: pooya8383
+      </a>  
     </p>
     <p>
         <a href="www.linkedin.com/in/-pooyaabbasi-">
         <img alt="linkedin icon" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
         </a> <br>
-        Linkedin
     </p>
     
 </div>
