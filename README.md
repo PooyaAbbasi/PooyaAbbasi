@@ -1,26 +1,31 @@
 ### Hi coders  👋
+<p> I am <bold>Pooya Abbasi</bold> a <bold>Django Backend Developer</bold>. </p>
 
 I am Pooya Abbasi 
 a **`Python`** developer and I'm still learning it, **I love 😍 `Python`** language and I want to write code in this language _enthusiastically_.<br>
-I have learned `Java`, `C++`, and `C`, **not profassionally** but can be considered _basic level_.<br>
+I have worked with many special things in python like`regexes`, `OOP`, `asynchronous programming`, `parallel programming` and also I have a little project about machin learning wich makes me skilled in a good level at python.<br>
+I’ve explored `Java`, `C++`, and `C` at a basic level, which gives me a diverse perspective on programming. I implemented some important some important data structures with cpp as school project [see this repo](https://github.com/PooyaAbbasi/DataStructure)<br>
 
-**🌱** I Love Django and backend development with it, I'm currently learning Django and backend development. <br>
-**🧾** I know basics of database designe, (`sql`, `MySQL`, `sqlite`) <br>
-**🌐** I learned basics of `html` `css`, `Bootstrap` and a bit `Javascript` 
+**🎇** I Love Django and backend development with it, I'm a newcomer in `Django` backend and `rest api` development . I have learned Django and DRF (django rest frameword)          and I'm eager to use my knowledge in real world scenarios. I have some good sample projects ([**explore my repos**](https://github.com/PooyaAbbasi?tab=repositories))<br>
+**🎇** I know some other tools like regex, selenium, and playwright to web scrapping and data extraction, and automation. <br>
+**🧾** I know about relational database designe, and learned basics of sql (`sql`, `MySQL`, `sqlite`) <br>
+**🌐** I learned basics of `html` `css`, `Bootstrap` and a bit `Javascript`<br> 
 
 
-<br><br>
+<br>
 <div align='center'>
   <h2 align="center">Skills</h2>
-  <P>
-      <img alt="skill icons" src="https://skillicons.dev/icons?i=python,django,pycharm,java,cpp&perline=5&theme=dark" />
+  <P align='center'>
+      <img alt="skill icons" src="https://skillicons.dev/icons?i=python,django,pycharm,cpp&perline=5&theme=dark" /> <br>
+      <img alt="skill icons" src="https://skillicons.dev/icons?i=postman,regex,selenium&perline=5&theme=dark" />
   </P>
 </div>
 <div align="center">
   <h2 align='center'>Basic Skills</h2>
   <P>(Learning)</P>
   <P>
-    <img alt='skill icons' src="https://skillicons.dev/icons?i=mysql,sqlite,html,css,bootstrap&perline=5&theme=dark" />
+    <img alt='skill icons' src="https://skillicons.dev/icons?i=mysql,sqlite,java&perline=6&theme=dark" /><br>
+    <img alt='skill icons' src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=6&theme=dark" />
   </P>
 </div>
 
