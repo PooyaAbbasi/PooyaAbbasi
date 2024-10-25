@@ -45,3 +45,14 @@ and I'm eager to use my knowledge in real world scenarios. I have some good samp
     
 </div>
 
+
+___
+
+### [Quera Code Solutions](https://github.com/digi-gen/Code-Solutions)
+
+My teammate [**Mahmood**](https://github.com/mr-mahmood) and I created this 
+repository to share solutions to coding challenges on [_**Quera**_](https://quera.org/). 
+
+You can explore our solutions to various interesting questions and are 
+welcome to contribute by adding your own solutions. 😊
+
