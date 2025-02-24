@@ -1,16 +1,20 @@
 ### Hi coders  👋
 <p> I am <bold>Pooya Abbasi</bold> a <bold>Django Backend Developer</bold>. </p>
+🚀 Backend Developer | Aspiring Software & AI Engineer
 
-I am Pooya Abbasi 
+#### I’m a Backend Developer skilled in Django, SQL, and system architecture, building scalable and efficient web applications. Currently, I’m focusing on System Design & Software Architecture to become a well-rounded Software Engineer in the next five years. Passionate about AI & Machine Learning, I aim to transition into AI engineering in the future. Always eager to learn, innovate, and connect! Let’s grow together. 🚀
+
 a **`Python`** developer and I'm still learning it, **I love 😍 `Python`** language and I want to write code in this language _enthusiastically_.<br>
 I have worked with many special things in python like`regexes`, `OOP`, `asynchronous programming`, `parallel programming` and also I have a little project about machin learning wich makes me skilled in a good level at python.<br>
 I’ve explored `Java`, `C++`, and `C` at a basic level, which gives me a diverse perspective on programming. I implemented some important some important data structures with cpp as school project [see this repo](https://github.com/PooyaAbbasi/DataStructure)<br>
 
-**🎇** I Love Django and backend development with it, I'm middlevel in `Django` backend and `rest api` `(DRF)` development . I have learned Django and DRF (django rest frameword)          
+**🎇** I Love server side development spcially Django and backend web development with it, I'm middlevel in `Django` backend and `rest api` `(DRF)` development . I have learned Django and DRF (django rest frameword)          
 and I'm eager to use my knowledge in real world scenarios. I have some good sample projects ([**explore my repos**](https://github.com/PooyaAbbasi?tab=repositories))<br>
 **🎇** I know some other tools like regex, selenium, and playwright to web scrapping and data extraction, and automation. <br>
 **🧾** I know about relational database designe, and learned basics of sql (`sql`, `MySQL`, `sqlite`) <br>
 **🌐** I learned basics of `html` `css`, `Bootstrap` and a bit `Javascript`<br> 
+#### **✊** I am passionate about advancing in the field of software development and architecture, with a keen interest in AI engineering for the future.
+
 
 
 <br>
@@ -18,14 +22,20 @@ and I'm eager to use my knowledge in real world scenarios. I have some good samp
   <h2 align="center">Skills</h2>
   <P align='center'>
       <img alt="skill icons" src="https://skillicons.dev/icons?i=python,django,pycharm,mysql,cpp&perline=5&theme=dark" /> <br>
-      <img alt="skill icons" src="https://skillicons.dev/icons?i=postman,regex,selenium&perline=5&theme=dark" />
+      <img alt="skill icons" src="https://skillicons.dev/icons?i=postman,regex,selenium,docker&perline=5&theme=dark" /> <br>
+      <img alt="skill icons" src="https://skillicons.dev/icons?i=git,github,md&perline=5&theme=dark" />
+  </P>
+</div>
+<div align='center'>
+  <h2 align="center">Learning</h2>
+  <P align='center'>
+    <img alt="skill icons" src="https://skillicons.dev/icons?i=linux,kubernetes,flask,fastapi,vim&perline=5&theme=dark" />
   </P>
 </div>
 <div align="center">
-  <h2 align='center'>Basic Skills</h2>
-  <P>(Learning)</P>
+  <h2 align='center'>Basic knowledge </h2>
   <P>
-    <img alt='skill icons' src="https://skillicons.dev/icons?i=sqlite,java&perline=6&theme=dark" /><br>
+    <img alt='skill icons' src="https://skillicons.dev/icons?i=linux,sqlite,java&perline=6&theme=dark" /><br>
     <img alt='skill icons' src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=6&theme=dark" />
   </P>
 </div>
