@@ -2,9 +2,9 @@
 <p> I am <bold>Pooya Abbasi</bold> a <bold>Django Backend Developer</bold>. </p>
 🚀 Backend Developer | Aspiring Software & AI Engineer
 
-#### I’m a Backend Developer skilled in Django, SQL, and system architecture, building scalable and efficient web applications. Currently, I’m focusing on System Design & Software Architecture to become a well-rounded Software Engineer in the next five years. Passionate about AI & Machine Learning, I aim to transition into AI engineering in the future. Always eager to learn, innovate, and connect! Let’s grow together. 🚀
+### I’m a Backend Developer skilled in Django, SQL, building scalable and efficient web applications. Currently, I’m focusing on System Design & Software Architecture to become a well-rounded Software Engineer in the next five years. Passionate about AI & Machine Learning, I aim to transition into AI engineering in the future. Always eager to learn, innovate, and connect! Let’s grow together. 🚀
 
-a **`Python`** develope professionally <br>
+a **`Python`** developer professionally <br>
 I have worked with many special things in python like`regexes`, `OOP`, `asynchronous programming`, `parallel programming`.<br>
 I’ve explored `C++`, and `js` at elementary level, which gives me a diverse perspective on programming. I implemented some important some important data structures with cpp as school project [see this repo](https://github.com/PooyaAbbasi/DataStructure)<br>
 
