@@ -29,7 +29,8 @@ and I'm eager to use my knowledge in real world scenarios. I have some good samp
 <div align='center'>
   <h2 align="center">Learning</h2>
   <P align='center'>
-    <img alt="skill icons" src="https://skillicons.dev/icons?i=linux,kubernetes,flask,fastapi,vim,bash,js&perline=7&theme=dark" />
+    <img alt="skill icons" src="https://skillicons.dev/icons?i=linux,kubernetes,fastapi,vim,bash,js&perline=6&theme=dark" /><br>
+    <img alt="skill icons" src="https://skillicons.dev/icons?i=dotnet,elasticsearch,githubactions&perline=6&theme=dark" />
   </P>
 </div>
 <div align="center">
